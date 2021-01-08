@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "type": "module",
-  "author": "Dmitry Sergienko",
+  "author": "Dmitry Sergienko (https://www.codefirst.co.uk/)",
   "homepage": "https://github.com/bbonch/what-is-my-age",
   "license": "ISC",
   "dependencies": {
