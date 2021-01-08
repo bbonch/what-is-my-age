@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "author": "Dmitry Sergienko",
+  "homepage": "https://github.com/bbonch/what-is-my-age",
   "license": "ISC",
   "dependencies": {
     "date-fns": "^2.16.1"
