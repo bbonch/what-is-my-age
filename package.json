@@ -1,0 +1,12 @@
+{
+  "name": "what-is-my-age",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "author": "Dmitry Sergienko",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.16.1"
+  }
+}
